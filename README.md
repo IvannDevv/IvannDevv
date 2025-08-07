@@ -1,7 +1,12 @@
-# Hello! 👋 I'm Iván Carlos
+# Hola! 👋 Bienvenido a mi perfil
 
-I'm a Computer Science student and a self-taught Python learner.  
-Passionate about programming and web development.
+#🚀 Sobre mí
+<ul>
+  <li>Me llamo Iván Carlos.</li>
+  <li>Estudiante de Informática y aprendiz autodidacta de Python.</li>
+  <li>Actualmente aprendiendo y creciendo como desarrollador.</li>
+  <li>Aquí encontrarás proyectos que he desarrollado durante mis estudios y práctica personal para mejorar mis habilidades.</li>
+</ul>
 
 ---
 

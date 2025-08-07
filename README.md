@@ -2,6 +2,7 @@
 
 --- 
 
+
 <h2>🚀 Sobre mí</h2>
 <ul>
   <li>Me llamo Iván Carlos.</li>
@@ -9,6 +10,7 @@
   <li>Actualmente aprendiendo y creciendo como desarrollador.</li>
   <li>Aquí encontrarás proyectos que he desarrollado durante mis estudios y práctica personal para mejorar mis habilidades.</li>
 </ul>
+
 
 ---
 

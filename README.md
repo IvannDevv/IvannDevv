@@ -1,6 +1,6 @@
 # Hola! 👋 Bienvenido a mi perfil
 
-#🚀 Sobre mí
+<h2>🚀 Sobre mí</h2>
 <ul>
   <li>Me llamo Iván Carlos.</li>
   <li>Estudiante de Informática y aprendiz autodidacta de Python.</li>

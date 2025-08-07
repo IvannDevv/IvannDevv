@@ -1,4 +1,4 @@
-<div align = "center">
+<div align = "center" padding= "30px">
   <h1>
       Hola! 👋 Bienvenido a mi perfil
   </h1>

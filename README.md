@@ -1,4 +1,4 @@
-<div align = "center" padding= "30px">
+<div align = "center">
   <h1>
       Hola! 👋 Bienvenido a mi perfil
   </h1>
@@ -21,7 +21,7 @@
 
 ## 🛠️ Tecnologías
 
-<div align="center" padding= "40px"> 
+<div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="85" height="85" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="85" height="85" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" alt="JavaScript" />

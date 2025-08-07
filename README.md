@@ -1,9 +1,13 @@
-# Hola! 👋 Bienvenido a mi perfil
+<div align = "center">
+  <h1>
+      # Hola! 👋 Bienvenido a mi perfil
+  </h1>
+</div>
 
 --- 
 
 
-<h2>🚀 Sobre mí</h2>
+##🚀 Sobre mí
 <ul>
   <li>Me llamo Iván Carlos.</li>
   <li>Estudiante de Informática y aprendiz autodidacta de Python.</li>

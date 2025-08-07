@@ -7,7 +7,8 @@
 --- 
 
 
-##🚀 Sobre mí
+## 🚀 Sobre mí
+
 <ul>
   <li>Me llamo Iván Carlos.</li>
   <li>Estudiante de Informática y aprendiz autodidacta de Python.</li>
